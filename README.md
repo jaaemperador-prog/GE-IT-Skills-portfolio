@@ -32,3 +32,21 @@ I prompted an AI discovery tool to summarize recent literature on the Davao's de
 
 #### 2. Critical Reflection on Tool Limitations
 "The AI platform collated several articles and research material in a cluttered manner. While most of the sources are accurate, there is still a need for empirical verification in order to avoid small gaps and AI hallucinations which could greatly affect the accuracy of the literature.
+
+### Data Analytics & Visual Report
+
+#### Dataset Focus: Davao City Municipal Waste Generation (Mock CSV Analysis)
+
+#### 1. Data Cleaning Protocol Log
+- **Raw Input Problem:** The raw CSV file contained multiple formatting corruptions that risked delaying legislative review.
+- **AI Cleaning Instruction:** `"Scan this dataset. Remove trailing/leading blank spaces from unaligned columns. Fixed number strings containing thousand-separator commas. Replace invalid placeholder characters and missing data cells with statistically validated regional mean and median inputs to prevent chart dropouts. Group isolated barangay data points into their respective main administrative districts to match regional development council legislative boundaries"`
+- **Result:** Successfully made a high-contrast visualization highlights changes across administrative boundaries and a trend graph charting the compounding volume of municipal waste across all monitored sectors.
+#### 2. Visualizations Generated
+
+
+
+
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+"The data chart clearly shows an increase of waste generation across different districts in 2024, while the trend graph reported an increase of Davao City's aggregate annual waste trajectory. Human cross-referencing of CENRO statistics and a city proposal for a new sanitary landfill reveals the data matching that of current events. 
+
+This increase urges the need for Davao City to continue to invest and authorize the proposal for the construction of a new sanitary landfill in Tugbok district in order for progressive waste management to happen folowing the foregoing closure of the old Davao City sanitary landfill.
