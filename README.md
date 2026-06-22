@@ -40,7 +40,7 @@ I prompted an AI discovery tool to summarize recent literature on the Davao's de
 #### 1. Data Cleaning Protocol Log
 - **Raw Input Problem:** The raw CSV file contained multiple formatting corruptions that risked delaying legislative review.
 - **AI Cleaning Instruction:** `"Scan this dataset. Remove trailing/leading blank spaces from unaligned columns. Fixed number strings containing thousand-separator commas. Replace invalid placeholder characters and missing data cells with statistically validated regional mean and median inputs to prevent chart dropouts. Group isolated barangay data points into their respective main administrative districts to match regional development council legislative boundaries"`
-- **Result:** Successfully made a high-contrast visualization highlights changes across administrative boundaries and a trend graph charting the compounding volume of municipal waste across all monitored sectors.
+- **Result:** Successfully made a bar graph highlighting changes across administrative boundaries and a trend graph charting the compounding volume of municipal waste across all monitored sectors.
 #### 2. Visualizations Generated
 
 
