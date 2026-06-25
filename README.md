@@ -5,9 +5,15 @@ To become a Certified Public Accountant and Lawyer
 
 [C.R.A.P. Activity_Emperador](brandingkit/C.R.A.P.%20Activity_Emperador.pdf)
 
+I incorporated a simplistic style of editing this file in order to make it clean and readable. I chose this color pallette because it suits my preferences in a color scheme and is a visually pleasing set of colors.
+
 ![Profile Banner](visuals/Profile%20Banner_Emperador.png)
 
+I utilized my color pallette in making this banner in order to be uniform with my branding. I decided to promote this kind of topic because it is a relevant topic under the course I am currently taking.
+
 ![Square Promotional](visuals/Square%20Promotional_Emperador.png)
+
+
 
 ![Infographic](docs/Infographic_Emperador.png)
 
