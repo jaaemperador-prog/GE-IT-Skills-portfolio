@@ -71,6 +71,6 @@ I prompted an AI discovery tool to summarize recent literature on the Davao's de
 <img width="693" height="403" alt="Trend Graph (Visual Reports)" src="https://github.com/user-attachments/assets/2e05eefc-f8d1-4d17-bea5-0b78ca379f58" />
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
-"The data chart clearly shows an increase of waste generation across different districts in 2024, while the trend graph reported an increase of Davao City's aggregate annual waste trajectory. Human cross-referencing of CENRO statistics and a city proposal for a new sanitary landfill reveals the data matching that of current events. 
+The data chart clearly shows an increase of waste generation across different districts in 2024, while the trend graph reported an increase of Davao City's aggregate annual waste trajectory. Human cross-referencing of CENRO statistics and a city proposal for a new sanitary landfill reveals the data matching that of current events. 
 
 This increase urges the need for Davao City to continue to invest and authorize the proposal for the construction of a new sanitary landfill in Tugbok district in order for progressive waste management to happen folowing the foregoing closure of the old Davao City sanitary landfill.
