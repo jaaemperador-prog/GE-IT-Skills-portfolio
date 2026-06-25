@@ -5,7 +5,7 @@ To become a Certified Public Accountant and Lawyer
 
 [C.R.A.P. Activity - Emperador](./brandingkit/C.R.A.P.%20Activity_Emperador.pdf)
 
-I incorporated a simplistic style of editing this file in order to make it clean and readable. I chose this color pallette because it suits my preferences in a color scheme and is a visually pleasing set of colors.
+I incorporated a simplistic style of editing this file in order to make it clean and readable. I chose this color palette because it suits my preferences in a color scheme and is a visually pleasing set of colors.
 
 ![Profile Banner](visuals/Profile%20Banner_Emperador.png)
 
@@ -73,4 +73,4 @@ I prompted an AI discovery tool to summarize recent literature on the Davao's de
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 The data chart clearly shows an increase of waste generation across different districts in 2024, while the trend graph reported an increase of Davao City's aggregate annual waste trajectory. Human cross-referencing of CENRO statistics and a city proposal for a new sanitary landfill reveals the data matching that of current events. 
 
-This increase urges the need for Davao City to continue to invest and authorize the proposal for the construction of a new sanitary landfill in Tugbok district in order for progressive waste management to happen folowing the foregoing closure of the old Davao City sanitary landfill.
+This increase urges the need for Davao City to continue to invest and authorize the proposal for the construction of a new sanitary landfill in Tugbok district in order for progressive waste management to happen following the foregoing closure of the old Davao City sanitary landfill.
