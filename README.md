@@ -43,9 +43,8 @@ I prompted an AI discovery tool to summarize recent literature on the Davao's de
 - **Result:** Successfully made a bar graph highlighting changes across administrative boundaries and a trend graph charting the compounding volume of municipal waste across all monitored sectors.
 #### 2. Visualizations Generated
 
-
-
-
+<img width="678" height="471" alt="Bar Graph (Visual Reports)" src="https://github.com/user-attachments/assets/94de6149-00cb-4d0f-a51b-e56dfc743b6f" />
+<img width="693" height="403" alt="Trend Graph (Visual Reports)" src="https://github.com/user-attachments/assets/2e05eefc-f8d1-4d17-bea5-0b78ca379f58" />
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 "The data chart clearly shows an increase of waste generation across different districts in 2024, while the trend graph reported an increase of Davao City's aggregate annual waste trajectory. Human cross-referencing of CENRO statistics and a city proposal for a new sanitary landfill reveals the data matching that of current events. 
