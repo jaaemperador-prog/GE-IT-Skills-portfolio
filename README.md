@@ -1,4 +1,18 @@
-# IT-Skills_Emperador
+## IT-Skills_Emperador
+This is the Github Repository Portfolio of Julian Andres A. Emperador in compliance of the GE elective subject, "21st Century IT Skills"
+
+To become a Certified Public Accountant and Lawyer
+
+[C.R.A.P. Activity_Emperador](brandingkit/C.R.A.P.%20Activity_Emperador.pdf)
+
+![Profile Banner](visuals/Profile%20Banner_Emperador.png)
+
+![Square Promotional](visuals/Square%20Promotional_Emperador.png)
+
+![Infographic](docs/Infographic_Emperador.png)
+
+[Prototyping Document](media/Prototyping.docx)
+
 ### The Davao Eco-logistics Prompt System 
 #### 1. System Prompt Template (V3 - Final Optimized)
 Role: Senior Economic Development Specialist, Davao Occidental LGU.
