@@ -44,8 +44,7 @@ I prompted an AI discovery tool to summarize recent literature on the Davao's de
 #### 2. Visualizations Generated
 
 
-<img width="678" height="471" alt="Bar Graph (Visual Reports)" src="https://github.com/user-attachments/assets/b93e61d7-c86a-4bad-90ff-da8a9e0afab4" />
-<img width="693" height="403" alt="Trend Graph (Visual Reports)" src="https://github.com/user-attachments/assets/36d59d57-f4e2-4155-bb3e-ea8049a2ac52" />
+
 
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
