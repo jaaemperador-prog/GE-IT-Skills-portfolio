@@ -3,7 +3,7 @@ This is the Github Repository Portfolio of Julian Andres A. Emperador in complia
 
 To become a Certified Public Accountant and Lawyer
 
-[C.R.A.P. Activity_Emperador](brandingkit/C.R.A.P.%20Activity_Emperador.pdf)
+[C.R.A.P. Activity - Emperador](./brandingkit/C.R.A.P.%20Activity_Emperador.pdf)
 
 I incorporated a simplistic style of editing this file in order to make it clean and readable. I chose this color pallette because it suits my preferences in a color scheme and is a visually pleasing set of colors.
 
@@ -13,11 +13,15 @@ I utilized my color pallette in making this banner in order to be uniform with m
 
 ![Square Promotional](visuals/Square%20Promotional_Emperador.png)
 
-
+This design is identical to the profile banner that I have designed. I converted it into a square promotional image with the same elements and relevant images to keep it uniform.
 
 ![Infographic](docs/Infographic_Emperador.png)
 
+This infographic is derived from our previous research paper in senior high school. I decided to incorporate my own color branding and font in some parts in the design for uniformity and cleanliness.
+
 [Prototyping Document](media/Prototyping.docx)
+
+This prototype is a simulation of a web music player. It similarly functions to a typical music player with a touch of my color branding. I also incorporated a search bar simulation by adding a keyboard element when going to the search bar.
 
 ### The Davao Eco-logistics Prompt System 
 #### 1. System Prompt Template (V3 - Final Optimized)
